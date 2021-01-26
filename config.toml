@@ -1,0 +1,4 @@
+baseURL = "https://happycooking.vercel.app"
+languageCode = "en-us"
+title = "Home Recipe"
+theme = "z"
